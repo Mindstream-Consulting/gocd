@@ -2,7 +2,7 @@ package com.di.maven;
 
 /**
  * Hello Mindstream!
- *
+ * Author: Manas Satpathi
  */
 public class App 
 {
