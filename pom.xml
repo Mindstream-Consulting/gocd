@@ -1,6 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
+<!--Author: Manas Satpathi -->
+
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.di.maven</groupId>
   <artifactId>hello-world</artifactId>
@@ -14,6 +16,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+<!--Adding JUnit Tests -->
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -22,6 +26,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+<!--Adding Maven war plugin -->
 
   <build>
      <plugins>
