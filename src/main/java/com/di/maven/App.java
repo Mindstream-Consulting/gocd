@@ -7,8 +7,13 @@ package com.di.maven;
 public class App 
 {
     public static void main( String[] args )
+
     {
+
         System.out.println( "Hello Mindstream!" );
+	System.out.println( “Welcome!” );
+
+
     }
 
 }
