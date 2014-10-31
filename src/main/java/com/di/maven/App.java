@@ -10,11 +10,9 @@ public class App
 
     {
 
-
         System.out.println( "Hello Mindstream!" );
 	
 	System.out.println( "Welcome!" );
-
 
     }
 
