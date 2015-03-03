@@ -2,7 +2,7 @@ package com.di.maven;
 
 /**
  * Hello Mindstream!
- * Author: Manas Satpathi
+ * Author: Bimal Pandey
  */
 public class App 
 {
@@ -12,8 +12,10 @@ public class App
         System.out.println( "Hello Mindstream!" );
     
         
+        
 	System.out.println( "Welcome!" );
      
+        
         
     }
 
