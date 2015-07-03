@@ -9,13 +9,21 @@ public class App
     public static void main( String[] args )
 
     {
-        System.out.println( "Hello Mindstream!" );
+<<<<<<< HEAD
         
+        
+        System.out.println( "Hello Mindstream!" );
+=======
+>>>>>>> origin/master
+        
+        System.out.println( "Hello Mindstream!" );
+    
         
 	System.out.println( "Welcome!" );
+<<<<<<< HEAD
         
-   
-        
+=======
+>>>>>>> origin/master
      
     }
 
