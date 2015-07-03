@@ -10,7 +10,10 @@ public class App2
     
     {
     
+<<<<<<< HEAD
         
+=======
+>>>>>>> origin/master
         
         System.out.println( "Hello World 2!" );
         

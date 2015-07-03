@@ -18,18 +18,26 @@ public class App
 >>>>>>> origin/master
         
         System.out.println( "Hello Mindstream!" );
-    
+=======
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
         
-<<<<<<< HEAD
+        System.out.println( "Hello Mindstream!" );
+
         
 	System.out.println( "Welcome!" );
 =======
+=======
+>>>>>>> origin/master
         System.out.println( "Welcome!" );
         
 =======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
      
     }
