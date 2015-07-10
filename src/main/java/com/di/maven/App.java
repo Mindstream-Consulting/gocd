@@ -11,20 +11,15 @@ public class App
     {
         
         System.out.println( "Hello Mindstream!" );
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
+
+
         
         System.out.println( "Hello Mindstream!" );
     
         
         System.out.println( "Welcome!" );
         
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
+
      
     }
 
